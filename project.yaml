@@ -1,7 +1,7 @@
 basic:
     name: 'Teste entre Figma e ambiente'
     environments:
-        production: 'https://alojamentoprod.dev11.javali.pt/'
+        production: 'https://alojamentoprod.dev11.javali.pt'
         staging: ''
         development: ''
     breakpoints:
@@ -9,8 +9,8 @@ basic:
         - 1366
     pages:
         - /
-        - ofertas
-        - imovel/quarto-em-cova-da-piedade-38
+        - /ofertas
+        - /imovel/quarto-em-cova-da-piedade-38
     monitoring:
         days: {  }
         type: ''
